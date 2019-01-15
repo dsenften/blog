@@ -1,0 +1,19 @@
+# IntelliJ
+.idea
+target
+
+# Auxiliary TeX Files
+*.aux
+*.loe
+*.log
+*.lol
+*.nav
+*.out
+*.snm
+*.toc
+*.vrb
+
+# Generated TeX Output File
+_minted*
+src/main/tex/main.article.pdf
+src/main/tex/main.beamer.pdf
